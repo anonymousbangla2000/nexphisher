@@ -21,7 +21,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
+* `git clone git://github.com/AnonymousBangla/nexphisher.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -36,7 +36,6 @@ apt update ; apt install git -y ; git clone git://github.com/AnonymousBangla/nex
 <img width="50%" src="https://raw.githubusercontent.com/AnonymousBangla/release-download/master/images/nexphisher1.png"/>
 <img width="46%" src="https://raw.githubusercontent.com/AnonymousBangla/release-download/master/images/nexphisher2.png"/>
 
-### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
 #### [+] Latest Login Pages !
